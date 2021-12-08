@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Pluralsight)(type KiCad)(uri D:/Labs/5_sem/!Kursach/References/Arduino-MIDI-Floppy-Drive-Instrument-master/KiCAD/Pluralsight.pretty)(options "")(descr ""))
+  (lib (name usb_type_c_female_board_Aliexpress)(type KiCad)(uri D:/Proj/PCBs/res/Usb_boards/usb_type_c_female_board_Aliexpress)(options "")(descr ""))
+)

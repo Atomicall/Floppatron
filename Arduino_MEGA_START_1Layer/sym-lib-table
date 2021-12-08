@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Arduino_MEGA_2560-Rev3)(type Legacy)(uri ${KIPRJMOD}/Arduino_MEGA_2560-Rev3.lib)(options "")(descr ""))
+  (lib (name usb_type_c_female_board_Aliexpress)(type Legacy)(uri D:/Proj/PCBs/res/Usb_boards/usb_type_c_female_board_Aliexpress/usb_type_c_female_board_Aliexpress.lib)(options "")(descr ""))
+)
